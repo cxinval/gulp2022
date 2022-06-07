@@ -1,0 +1,19 @@
+body{
+    background-color: #fff;
+}
+.header-title{
+    font-size: 30x;
+    font-weight: 700;
+}
+.footer{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+@media (max-width: 760px) {
+    body{
+        background-color: #000;
+        
+    } 
+    
+}

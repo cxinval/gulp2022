@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+}
+
+.title{
+    font-size: 31px;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+
+.text{
+    padding: 25px;
+    background-color: #000;
+    color: red;
+    font-weight: normal;
+    font-size: 15px;
+} 
+
+@media (max-width: 760px) {
+    .text{
+        padding: 10px;
+        
+    } 
+    
+}

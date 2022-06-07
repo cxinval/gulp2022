@@ -1,0 +1,48 @@
+npm i -D gulp-concat
+
+npm i -D gulp-cssimport
+
+npm i -D gulp-autoprefixer
+
+npm i -D gulp-csso
+
+
+npm i -D gulp-rename
+
+npm i -D gulp-shorthand
+
+npm i -D gulp-group-css-media-queries
+
+
+//////////////////////
+npm i -D gulp-sass sass
+
+npm i -D gulp-sass-glob
+
+npm i -D gulp-babel @babel/core @babel/preset-env
+
+npm i -D gulp-uglify
+
+npm i -D webpack webpack-stream
+
+npm i -D gulp-imagemin
+
+npm i -D gulp-imagemin@7
+
+npm i -D gulp-newer
+
+npm i -D gulp-webp
+
+npm i -D gulp-webp-html
+npm i -D gulp-webp-css
+
+npm i -D gulp-fonter
+
+
+npm i  -D gulp-ttf2woff2
+
+///////////////////////////////
+
+npm i -D gulp-if
+
+npm i -D gulp-load-plugins
